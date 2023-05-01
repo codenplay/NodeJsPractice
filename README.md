@@ -101,5 +101,4 @@ Create a .eslintrc.json file in the project root and enter the below contents:
 }  
 
 
-[^1]: Reference.
-[^2]: Learn with Sumit - https://github.com/learnwithsumit/nodejs-basic-bangla#install-dev-dependencies 
+//// Reference- Learn with Sumit - https://github.com/learnwithsumit/nodejs-basic-bangla#install-dev-dependencies 
